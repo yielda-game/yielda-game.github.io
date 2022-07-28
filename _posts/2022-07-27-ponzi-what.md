@@ -1,5 +1,5 @@
 ---
-title: "Hello, World!"
+title: "Ponzi What?"
 excerpt: "ponziFarm is a crypto game of nerve and bluster. Real money is on the table. Strong players will make a killing. Weak ones will lose their shirts."
 header:
   teaser: /assets/images/bio-photo.png
@@ -18,7 +18,7 @@ toc: false
 
 ponziFarm works just like every [Ponzi scheme](https://en.wikipedia.org/wiki/Ponzi_scheme) ever invented: early players earn their profits from the deposits of later ones. Players are encouraged to recruit their friends. Eventually, deposits dry up and the game crashes, leaving late depositors angrily sucking wind.
 
-Real Ponzi schemes pretend to be "investments" and prey on the greedy and stupid. But **ponziFarm is completely transparent!** Every aspect of the current game is out in the open. Every previous game is open for inspection. There are no secrets. Everybody knows the deal. And once a game crashes to an end, we start counting down to the next one.
+Real Ponzi schemes pretend to be *investments* and prey on the greedy and stupid. But **ponziFarm is completely transparent!** Every aspect of the current game is out in the open. Every previous game is open for inspection. There are no secrets. Everybody knows the deal. And once a game crashes to an end, we start counting down to the next one.
 
 Invite your friends! Referral fees are generous and paid instantly. Your referral relationships are permanent and as deep as your social
 network. Just remember: *everybody knows the deal.*

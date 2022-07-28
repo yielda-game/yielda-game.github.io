@@ -62,6 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.png"
   # bio    : "WAY too good to be true!"
   links:
+    - label: "Ponzi What?"
+      icon: "fa fa-fw fa-question-circle"
+      url: "/blog/ponzi-what/"
     - label: "Play PonziFarm!"
       icon: "fa fa-fw fa-play"
       url: "https://ponzifarm.com"
@@ -80,6 +83,9 @@ author:
 
 footer:
   links:
+    - label: "Ponzi What?"
+      icon: "fa fa-fw fa-question-circle"
+      url: "/blog/ponzi-what/"
     - label: "Play PonziFarm!"
       icon: "fa fa-fw fa-play"
       url: "https://ponzifarm.com"
