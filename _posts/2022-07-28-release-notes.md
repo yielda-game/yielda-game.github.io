@@ -1,5 +1,5 @@
 ---
-title: "ponziFarm Releases"
+title: "Release Notes"
 excerpt: "A list of stable PonziFarm releases. Try us out on your favorite testnet!"
 header:
   teaser: /assets/images/release.png
