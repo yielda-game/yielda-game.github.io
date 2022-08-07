@@ -1,0 +1,38 @@
+---
+title: "Referral"
+excerpt: "Earn referral fees by inviting your friends to play ponziFarm. Paid instantly when they make a deposit!"
+header:
+  teaser: /assets/images/referrals.png
+categories:
+  - Blog
+tags:
+  - preview
+toc: true
+---
+
+<figure class="align-left" style="margin-top: 10px; margin-bottom: 10px; width: 150px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/release.png">
+</figure>
+
+**ponziFarm is a work in progress!** We add new features regularly. Whenever we have a stable release, we deploy it first to our supported testnets so we can shake it out before we update our production application.
+
+Every release is numbered like this: **0.1.6**. In order, the three numbers are...
+
+- **Major Version** (0). These don't happen very often.
+- **Minor Version** (1). Indicates a breaking change to our Solidity contracts. In preview, we'll release a new site at a new URL with a fresh set of games. In production, we will let all current games play out and then migrate all games & deposits to an upgraded farm at the same URL before kicking off any new games.
+- **Patch Version** (6). This is a front-end change. In preview, we'll provide a new link to the release, but it will retain all games, deposits, etc. from the previous release. In production, there will be no interruption. New features will just show up and start working.
+
+**Not all releases are stable!** Consequently, expect gaps in the release versions listed here.
+
+## Current Preview
+
+To visit the most recent preview release of the PonziFarm platform (i.e. running on testnets), just click the button below! 
+
+<a class="btn btn--primary btn--large" href="https://preview.ponzifarm.com" target="blank">Visit the Latest Live Preview!</a>
+{:  .text-center}
+
+## Releases
+
+* v0.3.0 • [release notes](/blog/release-0-3-0) • [preview](https://app-git-preview-0-3-0-ponzifarm.vercel.app/)
+* v0.2.2 • [release notes](/blog/release-0-2-2) • [preview](https://app-git-preview-0-2-2-ponzifarm.vercel.app/)
+* v0.1.6 • [release notes](/blog/release-0-1-6) • [preview](https://app-git-preview-0-1-6-ponzifarm.vercel.app/)
