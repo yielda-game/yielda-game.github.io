@@ -50,3 +50,7 @@ $base0f: #b18a3d !default;
 .page__footer-follow .social-icons .svg-inline--fa  {
   color: inherit;
 }
+
+img.shadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
