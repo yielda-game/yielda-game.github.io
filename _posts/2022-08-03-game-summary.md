@@ -6,7 +6,7 @@ header:
 categories:
   - Blog
 tags:
-  - meta
+  - stats
 toc: true
 ---
 
