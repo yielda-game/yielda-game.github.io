@@ -80,13 +80,13 @@ This stat displays a running count of the rebates paid out in the selected game,
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-referrals.png" class="shadow">
 </figure>
 
-Every ponziFarm player gets a referral link to share with friends. When your friend makes a deposit to any game, you earn a referral fee, paid instantly to your crypto wallet. Referral fees are shared up the referral chain, so it pays to build a network!
+Every **ponziFarm** player gets a referral link to share with friends. When your friend makes a deposit to any game, you earn a referral fee, paid instantly to your crypto wallet. Referral fees are shared up the referral chain, so it pays to build a network!
 
 Referral rates and upline cuts vary from game to game. These and other game parameters are displayed in the Game Rules panel at the bottom of every game dashboard.
 
 This stat keeps a running count of the number of direct and indirect referral fees paid during the game, as well as their total value. Once the game has run for a few days, click the **Referrals** stat to see a graph of both metrics over time.
 
-Click [here](/blog/referrals) to learn more about ponziFarm referrals!
+Click [here](/blog/referrals) to learn more about **ponziFarm** referrals!
 
 ## Withdrawals
 
@@ -104,7 +104,7 @@ Once the game has run for a few days, click the **Withdrawals** stat to see a gr
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-ejections.png" class="shadow">
 </figure>
 
-Some ponziFarm games permit **ejection**: an early withdrawal of your deposit, prior to the expiration of its lockup period. Ejection can prevent a total loss of your deposit, but it comes at a price: you forfeit all of your deposit's daily returns, and also pay a penalty out of your initial deposit value. So choose wisely!
+Some **ponziFarm** games permit **ejection**: an early withdrawal of your deposit, prior to the expiration of its lockup period. Ejection can prevent a total loss of your deposit, but it comes at a price: you forfeit all of your deposit's daily returns, and also pay a penalty out of your initial deposit value. So choose wisely!
 
 Ejection availability and the penalty paid vary from game to game. Check the Game Rules panel at the bottom of every game dashboard to see these and other game parameters.
 
