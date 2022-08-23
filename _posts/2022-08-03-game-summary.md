@@ -53,7 +53,12 @@ This stat displays a running count of player deposits to the game, as well as th
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-fees.png" class="shadow">
 </figure>
 
-This stat displays the running total of management fees paid out of deposits to the game. We vary the management fee and other game parameters from game to game in order to optimize the player experience, but the rate is fixed once the game starts. All game parameters are displayed in the Game Rules panel at the bottom of every game dashboard.
+This stat displays the running total of management fees paid as a percentage of each deposit to the game. 
+
+We vary the management fee and other game parameters from game to game in order to optimize the player experience, but the rate is fixed once the game starts. All game parameters are displayed in the Game Rules panel at the bottom of every game dashboard.
+
+**Management fees are paid out of the _game balance_, not out of your deposit!** If you withdraw your deposit before the game ends, you will receive the full amount of your initial deposit, with your daily rate of return compounded daily over your lockup period. 
+{: .notice--info}
 
 Once the game has run for a few days, click the **Mgmt Fees** stat to see a graph of this metric over the life of the game.
 
