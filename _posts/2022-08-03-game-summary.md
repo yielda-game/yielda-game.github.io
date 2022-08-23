@@ -68,7 +68,9 @@ Once the game has run for a few days, click the **Mgmt Fees** stat to see a grap
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-rebates.png" class="shadow">
 </figure>
 
-Deposits with longer lockup periods earn rebates, which are paid instantly back to the depositing account. Rebate rules are another  parameter that varies from game to game. All game parameters are displayed in the Game Rules panel at the bottom of every game dashboard.
+Deposits with longer lockup periods earn rebates, which are paid instantly back to the depositing account. 
+
+Rebate rules are another  parameter that varies from game to game. All game parameters are displayed in the Game Rules panel at the bottom of every game dashboard.
 
 This stat displays a running count of the rebates paid out in the selected game, as well as their total value. Once the game has run for a few days, click the **Rebates** stat to see a graph of both metrics over time.
 
