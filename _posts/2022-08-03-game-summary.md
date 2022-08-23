@@ -25,19 +25,25 @@ If the game is live, these stats will be updated in real time as players interac
 
 ## Game Number
 
-This content is coming soon!
+Each game is numbered by blockchain, beginning with #0. Only one game runs at a time on each blockchain, and there will always be a gap between games to allow time for promotion. Between games, the dashboard will display a countdown and referral link to the next game, as well as a summary of the previous one.
 
 ## Game Status
 
-This content is coming soon!
+Every ponziFarm game has a status. It will be one of the following:
+
+* **Current** - The ongoing game, or the upcoming one if the previous game has ended.
+* **Ended** - Just what it sounds like.
+* **Queued** - Games scheduled beyond the current one. Note that game end dates are not known in advance, so a game is "scheduled" to begin a certain number of days after the end o fthe previous one.
+
+Once the first game (i.e. Game #0) has ended, the **All Games** link will appear in the sidebar. This page displays the full list of games visible to you. Unless you are an admin user, you will not be able to see Queued games.
 
 ## Game Contract Link
 
-This content is coming soon!
+The game header features a link to the current game's smart contract on the relevant blockchain scanner. Currently this doesn't tell you much, but soon we intend to add contract source code validation features that will help certify the integrity of the **ponziFarm** application.
 
 ## Game Stats
 
-This content is coming soon!
+Game stats are grouped at the top of the Game Summary panel. Hover over a stat to see additional info and a link to documentation. Once charts appear, click a stat to see how it evolves over time.
 
 ### Started
 
@@ -86,7 +92,7 @@ Once the game has run for a few days, click the **Mgmt Fees** stat to see a grap
 
 Deposits with longer lockup periods earn rebates, which are paid instantly back to the depositing account. 
 
-Rebate rules are another  parameter that varies from game to game. All game parameters are displayed in the Game Rules panel at the bottom of every game dashboard.
+Rebate rules are another parameter that varies from game to game. All game parameters are displayed in the Game Rules panel at the bottom of every game dashboard.
 
 This stat displays a running count of the rebates paid out in the selected game, as well as their total value. Once the game has run for a few days, click the **Rebates** stat to see a graph of both metrics over time.
 
