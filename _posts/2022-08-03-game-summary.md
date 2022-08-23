@@ -23,7 +23,13 @@ If the game is live, these stats will be updated in real time as players interac
     <figcaption>Game Summary Panel</figcaption>
 </figure>
 
+## Game Contract Link
+
+This content is coming soon!
+
 ## Game Stats
+
+This content is coming soon!
 
 ### Started
 
