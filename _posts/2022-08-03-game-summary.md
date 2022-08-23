@@ -23,7 +23,9 @@ If the game is live, these stats will be updated in real time as players interac
     <figcaption>Game Summary Panel</figcaption>
 </figure>
 
-## Started
+## Game Stats
+
+### Started
 
 <figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-started.png" class="shadow">
@@ -31,7 +33,7 @@ If the game is live, these stats will be updated in real time as players interac
 
 This is the game start date. Hover over this stat to see the starting time.
 
-## Ended
+### Ended
 
 <figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-ended.png" class="shadow">
@@ -39,7 +41,7 @@ This is the game start date. Hover over this stat to see the starting time.
 
 This stat displays the game ending date, and only appears once a game has ended. Hover over this stat to see the ending time.
 
-## Deposits
+### Deposits
 
 <figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-deposits.png" class="shadow">
@@ -47,7 +49,7 @@ This stat displays the game ending date, and only appears once a game has ended.
 
 This stat displays a running count of player deposits to the game, as well as the total value of all deposits. Once the game has run for a few days, click the **Deposits** stat to see a graph of both metrics over time.
 
-## Mgmt Fees
+### Mgmt Fees
 
 <figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-fees.png" class="shadow">
@@ -62,7 +64,7 @@ We vary the management fee and other game parameters from game to game in order 
 
 Once the game has run for a few days, click the **Mgmt Fees** stat to see a graph of this metric over the life of the game.
 
-## Rebates
+### Rebates
 
 <figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-rebates.png" class="shadow">
@@ -74,7 +76,7 @@ Rebate rules are another  parameter that varies from game to game. All game para
 
 This stat displays a running count of the rebates paid out in the selected game, as well as their total value. Once the game has run for a few days, click the **Rebates** stat to see a graph of both metrics over time.
 
-## Referrals
+### Referrals
 
 <figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-referrals.png" class="shadow">
@@ -88,7 +90,7 @@ This stat keeps a running count of the number of direct and indirect referral fe
 
 Click [here](/blog/referrals) to learn more about **ponziFarm** referrals!
 
-## Withdrawals
+### Withdrawals
 
 <figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-withdrawals.png" class="shadow">
@@ -98,7 +100,7 @@ This stat counts the number of game deposits withdrawn at maturity, following ex
 
 Once the game has run for a few days, click the **Withdrawals** stat to see a graph of both metrics over the life of the game.
 
-## Ejections
+### Ejections
 
 <figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-ejections.png" class="shadow">
@@ -110,7 +112,7 @@ Ejection availability and the penalty paid vary from game to game. Check the Gam
 
 This stat maintains a running count of game ejections as well as the total value of ejections paid out, after accounting for penalties. Once the game has run for a few days, click the **Ejections** stat to see a graph of both metrics over time.
 
-## Unsettled
+### Unsettled
 
 <figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-unsettled.png" class="shadow">
@@ -122,7 +124,7 @@ Pay close attention to these numbers when considering a deposit! Over time, play
 
 Once the game has run for a few days, click the **Unsettled** stat to see a graph of both metrics over time.
 
-## Balance
+### Balance
 
 <figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-balance.png" class="shadow">
