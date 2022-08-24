@@ -6,6 +6,7 @@ header:
 categories:
   - Blog
 tags:
+  - instructions
   - stats
 toc: true
 ---

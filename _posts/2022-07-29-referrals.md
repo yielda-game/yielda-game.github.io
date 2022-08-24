@@ -7,6 +7,7 @@ categories:
   - Blog
 tags:
   - referrals
+  - rules
 toc: false
 ---
 
