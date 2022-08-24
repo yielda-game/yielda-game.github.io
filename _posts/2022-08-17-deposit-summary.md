@@ -2,7 +2,7 @@
 title: "Deposit Summary Explained"
 excerpt: "An explanation of all the real-time stats and graphs displayed in the ponziFarm deposit summary panel."
 header:
-  teaser: /assets/images/bio-photo.png
+  teaser: /assets/images/deposits.png
 categories:
   - Blog
 tags:
@@ -12,7 +12,7 @@ toc: true
 ---
 
 <figure class="align-left" style="margin-top: 10px; margin-bottom: 10px; width: 150px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.png">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/depossits.png">
 </figure>
 
 Once you have deposited to a **ponziFarm** game, the game dashboard will display a list of your deposits to the game just below your [Player Summary](/blog/player-summary).
