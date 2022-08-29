@@ -96,3 +96,6 @@ It is also built into the smart contract that represents the game. Why does that
 So potential market manipulators beware: this is where we draw the line. EVERYBODY will be watching. 😇
 
 If you'd like to learn more about helping us at this level, just hit us up on one of our social media channels and we'll be in touch!
+
+<a class="btn btn--primary btn--large" href="https://preview.ponzifarm.com" target="blank">Try the ponziFarm Tesnet Preview!</a>
+{:  .text-center}
