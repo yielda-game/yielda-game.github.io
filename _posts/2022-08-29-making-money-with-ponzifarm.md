@@ -15,7 +15,7 @@ toc: true
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/profit.png">
 </figure>
 
-**ponziFarm** is a crypto-based, investment-style game where manipulating the "system" is not only allowed but encouraged! It's modeled on a good old-fashioned [Ponzi Scheme](https://en.wikipedia.org/wiki/Ponzi_scheme), an fraudulent (and highly illegal!) investment scam that pays high returns to early "investors" out of the deposits of later ones.
+**ponziFarm** is a crypto-based, investment-style game where manipulating the "system" is not only allowed but encouraged! It's modeled on a good old-fashioned [Ponzi Scheme](https://en.wikipedia.org/wiki/Ponzi_scheme), a fraudulent (and highly illegal!) investment scam that pays high returns to early "investors" out of the deposits of later ones.
 
 Despite the tongue-in-cheek name, **ponziFarm** is NOT a scam! The difference is _transparency_. **ponziFarm** players have complete information concerning the rules of the game, the state of game play, and the activity of other players. Think of it as the ultimate game of stud poker: the challenge is to win the game with ALL of your cards on the table, ALL the time!
 
@@ -27,15 +27,15 @@ There are three ways to make a killing at **ponziFarm**:
 
 ## Playing ponziFarm
 
-Game play is mechanically simple: make a deposit. 
+Game play is mechanically simple: _make a [deposit](/blog/deposits)_. 
 
-Each deposit is locked up for a period of time, and earns a daily rate of return that increases with the lockup period you choose. If your deposit matures before the game ends, withdraw your deposit and take a handsome profit. If the game runs out of money before your deposit matures, GAME OVER! Your entire deposit is forfeit!
+Each deposit is [locked up](/blog/deposits#lockup-period) for a period of time, and earns a daily rate of return that increases with the lockup period you choose. If your deposit matures before the game ends, withdraw your deposit and take a handsome profit. If the game runs out of money before your deposit matures, GAME OVER! Your entire deposit is forfeit!
 
 This sounds simple, but there are hidden depths...
 
-Every new deposit to the game extends the life of the game. You can watch the game balance and other metrics develop over time, so you can evaluate the risk of a deposit before you  make it.
+Every new deposit to the game extends the life of the game. You can [watch](/blog/game-summary) the game balance and other metrics develop over time, so you can evaluate the risk of a deposit before you  make it.
 
-Your game play is anonymous by default, but you are encouraged to use social media to talk to other players if you think it might help. Game rules are enforced by smart contracts... but your behavior is not. 
+Your game play is anonymous by default, but you are encouraged to use social media to talk to other players if you think it might help. Game rules are enforced by smart contracts... but your _behavior_ is not! 
 
 So do your best to manipulate the "market", by any means you can devise. Create a syndicate. Break your promises. Indulge your inner [Bernie Madoff](https://en.wikipedia.org/wiki/Bernie_Madoff). Go nuts.
 
@@ -49,11 +49,11 @@ So do your worst... and then we'll do our best to level the playing field.
 
 * **Front-load your deposits!** Early deposits are the safest ones, so try to get into each game as early as possible with your largest deposits.
 
-* **Leverage social media!** Every new deposit buys some time for _your_ deposits to mature, and referral fees will help defer any losses.
+* **Leverage social media!** Every new deposit buys some time for _your_ deposits to mature, and [referral fees](/blog/referrals) will help defer any losses.
 
-* **Remember your ejecction button!** You can pay a penalty to "eject" a deposit prior to maturity. You'll take a loss, but it beats losing your whole deposit! A
+* **Remember your ejection button!** You can pay a penalty to "[eject](/blog/deposits#ejection)" a deposit prior to maturity. You'll take a loss, but it beats losing your whole deposit! A
 
-* **Spread your risk!** Every **ponziFarm** game will eventually crash, but there's a lot of room to maneuver in the middle. Instead of one large deposits, make several smaller ones, with a range of lockup periods. This will _significantly_ reduce the pain of an early ejection!
+* **Spread your risk!** Every **ponziFarm** game will eventually crash, but there's a lot of room to maneuver in the middle. Instead of one large deposit, make several smaller ones, with a range of lockup periods. This will _significantly_ reduce the pain of an early ejection!
 
 * **Play the long game!** Every time a **ponziFarm** game crashes, it is soon followed by a new game. Create referral relationships and forge alliances NOW in order to reduce your losses and enhance your profits LATER. We aren't going anywhere. 😉
 
@@ -73,15 +73,11 @@ As we keep working to enhance game transparency, expect to see metrics that reve
 
 Our smart contracts are provably fair. That frees you to play as deviously as you can imagine. So imagine big!
 
-A **ponziFarm** player enters a game by making a deposit.
-
-Every **ponziFarm** game runs on a crypto blockchain, and deposits are made in the blockchain's gas currency. For example, Ethereum blockchain deposits are made in ETH and Polygon deposits are made in MATIC.
-
-Every deposit has an **amount** and a **lockup period**.
+Click [here](/blog/referrals) to learn more about **ponziFarm** referrals.
 
 ## Operating the Game
 
-We extract a management fee from a game after every deposit, and we have the ability to share these fees with people (via their crypto wallets) who help us operate the game.
+We extract a [management fee](/blog/game-rules#management-fee) from a game after every deposit, and we have the ability to share these fees with people (via their crypto wallets) who help us operate the game.
 
 What could you do? Here are some examples:
 
