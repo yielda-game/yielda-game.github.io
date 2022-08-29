@@ -29,7 +29,9 @@ There are three ways to make a killing at **ponziFarm**:
 
 Game play is mechanically simple: _make a [deposit](/blog/deposits)_. 
 
-Each deposit is [locked up](/blog/deposits#lockup-period) for a period of time, and earns a daily rate of return that increases with the lockup period you choose. If your deposit matures before the game ends, withdraw your deposit and take a handsome profit. If the game runs out of money before your deposit matures, GAME OVER! Your entire deposit is forfeit!
+Each deposit is [locked up](/blog/deposits#lockup-period) for a period of time, and earns a daily rate of return that increases with the lockup period you choose. 
+
+If your deposit matures before the game ends, withdraw your deposit and take a handsome profit. If the game runs out of money before your deposit matures, GAME OVER! Your entire deposit is forfeit!
 
 This sounds simple, but there are hidden depths...
 
@@ -41,7 +43,9 @@ So do your best to manipulate the "market", by any means you can devise. Create 
 
 Just remember that every other player will be doing the exact same thing!
 
-We've released **ponziFarm** with a comprehensive set of metrics designed to help you see through every subterfuge other players might devise. But we haven't thought of _everything!_ That's part of the fun. Our job going forward is to listen to our players and create new tools to expose whatever tricks your fellow players dream up. 
+We've released **ponziFarm** with a comprehensive set of metrics designed to help you see through every subterfuge other players might devise. But we haven't thought of _everything!_ That's part of the fun. 
+
+Our job going forward is to listen to our players and create new tools to expose whatever tricks your fellow players dream up. Your job is to get ahead of the curve and _stay_ there.
 
 So do your worst... and then we'll do our best to level the playing field.
 
