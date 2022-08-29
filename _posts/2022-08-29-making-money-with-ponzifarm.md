@@ -33,7 +33,7 @@ Each deposit is [locked up](/blog/deposits#lockup-period) for a period of time, 
 
 This sounds simple, but there are hidden depths...
 
-Every new deposit to the game extends the life of the game. You can [watch](/blog/game-summary) the game balance and other metrics develop over time, so you can evaluate the risk of a deposit before you  make it.
+Every new deposit to the game extends the life of the game. You can [watch](/blog/game-summary) the game balance and other metrics develop over time, so you can evaluate the risk of a deposit before you  make one.
 
 Your game play is anonymous by default, but you are encouraged to use social media to talk to other players if you think it might help. Game rules are enforced by smart contracts... but your _behavior_ is not! 
 
@@ -51,7 +51,7 @@ So do your worst... and then we'll do our best to level the playing field.
 
 * **Leverage social media!** Every new deposit buys some time for _your_ deposits to mature, and [referral fees](/blog/referrals) will help defer any losses.
 
-* **Remember your ejection button!** You can pay a penalty to "[eject](/blog/deposits#ejection)" a deposit prior to maturity. You'll take a loss, but it beats losing your whole deposit! A
+* **Remember your ejection button!** You can pay a penalty to "[eject](/blog/deposits#ejection)" a deposit prior to maturity. You'll take a loss, but it beats losing your whole deposit!
 
 * **Spread your risk!** Every **ponziFarm** game will eventually crash, but there's a lot of room to maneuver in the middle. Instead of one large deposit, make several smaller ones, with a range of lockup periods. This will _significantly_ reduce the pain of an early ejection!
 
