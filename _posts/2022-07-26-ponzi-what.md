@@ -31,4 +31,8 @@ Interact with other players on [Telegram](https://t.me/+GEFQlWGiOswwYmFl), [Disc
 
 Just remember: ***everybody knows the deal!*** 😇
 
-A [preview release](https://preview.ponzifarm.com) is already running on several different testnets, and we should be running in production on a half-dozen mainnets by the end of September 2022. Meanwhile, say hello on [Telegram](https://t.me/+GEFQlWGiOswwYmFl) or [Discord](https://discord.gg/VakaMe3x), and follow us here to explore preview releases, share bug reports, and suggest new features!
+A [preview release](https://preview.ponzifarm.com) is already running on the ETH & MATIC testnets, and we should be running in production on the related mainnets by the end of September 2022. Meanwhile, say hello on [Telegram](https://t.me/+GEFQlWGiOswwYmFl) or [Discord](https://discord.gg/VakaMe3x), and follow us here to explore preview releases, share bug reports, and suggest new features!
+
+<a class="btn btn--primary btn--large" href="https://preview.ponzifarm.com" target="blank">Try the ponziFarm Tesnet Preview!</a>
+{:  .text-center}
+
