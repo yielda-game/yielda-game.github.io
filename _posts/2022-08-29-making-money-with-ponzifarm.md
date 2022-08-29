@@ -1,8 +1,8 @@
 ---
 title: "Making Money with ponziFarm"
-excerpt: "PonziFarm is an investment-style gambling game where manipulating the 'system' is not only allowed but encouraged! Here's how to make it work for you."
+excerpt: "PonziFarm is a crypto-based, investment-style game where manipulating the 'system' is not only allowed but encouraged! Here's how to make it work for you."
 header:
-  teaser: /assets/images/deposits.png
+  teaser: /assets/images/profit.png
 categories:
   - Blog
 tags:
@@ -12,10 +12,10 @@ toc: true
 ---
 
 <figure class="align-left" style="margin-top: 10px; margin-bottom: 10px; width: 150px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/deposits.png">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/profit.png">
 </figure>
 
-**ponziFarm** is an crypto-based, investment-style gambling game where manipulating the "system" is not only allowed but encouraged! It's modeled on a good old-fashioned [Ponzi Scheme](https://en.wikipedia.org/wiki/Ponzi_scheme), an fraudulent (and highly illegal!) investment scam that pays high returns to early "investors" out of the deposits of later ones.
+**ponziFarm** is a crypto-based, investment-style game where manipulating the "system" is not only allowed but encouraged! It's modeled on a good old-fashioned [Ponzi Scheme](https://en.wikipedia.org/wiki/Ponzi_scheme), an fraudulent (and highly illegal!) investment scam that pays high returns to early "investors" out of the deposits of later ones.
 
 Despite the tongue-in-cheek name, **ponziFarm** is NOT a scam! The difference is _transparency_. **ponziFarm** players have complete information concerning the rules of the game, the state of game play, and the activity of other players. Think of it as the ultimate game of stud poker: the challenge is to win the game with ALL of your cards on the table, ALL the time!
 
