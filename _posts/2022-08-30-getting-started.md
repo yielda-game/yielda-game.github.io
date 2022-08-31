@@ -52,4 +52,4 @@ Once you have that stuff out of the way, playing **ponziFarm** is simple:
 
 * Don't forget to share your [referral link](/blog/referrals) on social media to earn referral fees from your social network!
 
-See? Easy as pie. Click [here](/blog/making-money-with-ponzifarm) for a deep dive on all this, as wella s more ways to earn money on the ponziFarm platform!
+See? Easy as pie. Click [here](/blog/making-money-with-ponzifarm) for a deep dive on all this, as well as more ways to earn money on the ponziFarm platform!
