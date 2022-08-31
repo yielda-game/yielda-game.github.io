@@ -25,7 +25,7 @@ Meanwhile, before you get started...
 
 <figure>
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/faucet-button.png" class="shadow">
-    <figcaption>Click the _Faucet Button_ for help acquiring crypto!</figcaption>
+    <figcaption>Click the Faucet Button for help acquiring crypto!</figcaption>
 </figure>
 
 2. **You need MetaMask to play!** You can explore any game in any browser, but to make or withdraw a deposit you'll either need the MetaMask browser extension (on your laptop) or the MetaMask app's built-in browser (on your mobile device). Click [here](https://metamask.io/download/) to install MetaMask. 
