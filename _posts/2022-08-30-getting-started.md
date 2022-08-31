@@ -23,10 +23,10 @@ Meanwhile, before you get started...
 
 1. **You need a crypto wallet with some funds in it!** In our [testnet preview](https://preview.ponzifarm.com) we support ETH & MATIC on the Goerli & Mumbai testnets. When we [go live](https://ponzifarm.com) you can play with either currency on the related mainnets. More to come... we support [every EVM blockchain](https://coinguides.org/evm-blockchains-add-evm-network/)!
 
-  <figure>
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/faucet-button.png" class="shadow">
-      <figcaption>Click the Faucet Button for help acquiring crypto!</figcaption>
-  </figure>
+    <figure>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/faucet-button.png" class="shadow">
+        <figcaption>Click the Faucet Button for help acquiring crypto!</figcaption>
+    </figure>
 
 2. **You need MetaMask to play!** You can explore any game in any browser, but to make or withdraw a deposit you'll either need the MetaMask browser extension (on your laptop) or the MetaMask app's built-in browser (on your mobile device). Click [here](https://metamask.io/download/) to install MetaMask. 
 
