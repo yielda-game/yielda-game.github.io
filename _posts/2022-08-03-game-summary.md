@@ -46,21 +46,13 @@ The game header features a link to the current game's smart contract on the rele
 
 Game stats are grouped at the top of the Game Summary panel. Hover over a stat to see additional info and a link to documentation. Once charts appear, click a stat to see how it evolves over time.
 
-### Started
+### Game Time
 
 <figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-started.png" class="shadow">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-game-time.png" class="shadow">
 </figure>
 
-This is the game start date. Hover over this stat to see the starting time.
-
-### Ended
-
-<figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-ended.png" class="shadow">
-</figure>
-
-This stat displays the game ending date, and only appears once a game has ended. Hover over this stat to see the ending time.
+This stat displays the game's accumulated run time. Hover over this stat to see the actual starting date & time. Also displays ending date & time, if the game has ended.
 
 ### Deposits
 
