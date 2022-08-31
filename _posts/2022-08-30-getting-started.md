@@ -36,15 +36,15 @@ Once you have that stuff out of the way, playing **ponziFarm** is simple:
 
 * ETH is the default currency. Use the dropdown at the top of the page to choose a different one if you like.
 
-<figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/choose-a-currency.png" class="shadow">
-    <figcaption>Choose a currency.</figcaption>
-</figure>
+    <figure>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/choose-a-currency.png" class="shadow">
+        <figcaption>Choose a currency.</figcaption>
+    </figure>
 
 * Choose a lockup period & make a deposit. Click [here](/blog/deposits) for more info on deposits!
 
-**PRO TIP:** Break larger deposits up into smaller ones and spread them across a range of lockup periods!
-{: .notice--info}
+    **PRO TIP:** Break larger deposits up into smaller ones and spread them across a range of lockup periods!
+    {: .notice--info}
 
 * Track [game stats](/blog/game-summary) and your [personal performance](/blog/player-summary) on the Game Dashboard.
 
