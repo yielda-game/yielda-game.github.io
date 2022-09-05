@@ -9,6 +9,8 @@ tags:
   - deposits
   - rules
 toc: true
+redirect_from:
+  - /blog/making-money-with-ponzifarm
 ---
 
 <figure class="align-left" style="margin-top: 10px; margin-bottom: 10px; width: 150px;">
