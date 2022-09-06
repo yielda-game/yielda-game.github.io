@@ -26,7 +26,7 @@ If the game is live, these stats will be updated in real time as players interac
 
 ## Game Number
 
-Each game is numbered by blockchain, beginning with #0. Only one game runs at a time on each blockchain, and there will always be a gap between games to allow time for promotion. Between games, the dashboard will display a countdown and referral link to the next game, as well as a summary of the previous one.
+Each game is numbered by blockchain, beginning with #0. Only one game runs at a time on each blockchain, and there will always be a gap between games to allow time for promotion. Between games, the dashboard will display a countdown and [referral link](/blog/referrals) to the next game, as well as a summary of the previous one.
 
 ## Game Status
 
