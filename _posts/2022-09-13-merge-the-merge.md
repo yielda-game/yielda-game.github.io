@@ -37,7 +37,7 @@ Here it is in 4 easy steps:
 
 1. Fire up your Twitter app, open up a new tweet, and hit the camera button.
 
-    <figure class="align-center" style="width: 200px;">
+    <figure class="align-center" style="width: 250px;">
       <a href="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-1.png" class="shadow"></a>
     </figure>
 
@@ -47,7 +47,7 @@ Here it is in 4 easy steps:
 
 1. Hit the **Go LIVE** button.
 
-    <figure class="align-center" style="width: 200px;">
+    <figure class="align-center" style="width: 250px;">
       <a href="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-2.png" class="shadow"></a>
     </figure>
 
@@ -59,7 +59,7 @@ Joining another Merge party is even easier. Just open up the [**#MergeTheMerge**
 
 You're in!
 
-<figure class="align-center" style="width: 200px;">
+<figure class="align-center" style="width: 250px;">
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/join-a-party.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/join-a-party.png" class="shadow"></a>
 </figure>
 
