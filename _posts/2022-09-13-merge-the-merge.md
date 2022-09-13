@@ -15,6 +15,8 @@ toc: false
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/merge-the-merge.png">
 </figure>
 
+[**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge)
+
 This is either the dumbest idea we have ever had, or the most brilliant. You decide!
 
 The [Ethereum Merge](https://ethereum.org/en/upgrades/merge/) is the most significant update in the history of Ethereum, and as I type it is expected to take place around 4am UTC on Thursday, 15 Sep, 2022.
