@@ -23,7 +23,7 @@ The [Ethereum Merge](https://ethereum.org/en/upgrades/merge/) is the most signif
 
 Here's a fun idea for merging EVERY Merge party into ONE Merge party! All you need is your smartphone and [Twitter Live](https://help.twitter.com/en/using-twitter/twitter-live)!
 
-##TL/DR
+## TL/DR
 
 There are two ways you can help [**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge): 
 
