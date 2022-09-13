@@ -8,7 +8,7 @@ categories:
 tags:
   - deposits
   - rules
-toc: false
+toc: true
 ---
 
 <figure class="align-left" style="margin-top: 10px; margin-bottom: 10px; width: 150px;">
@@ -17,22 +17,56 @@ toc: false
 
 [**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge)
 
-This is either the dumbest idea we have ever had, or the most brilliant. You decide!
+The Merge is coming! 
 
-The [Ethereum Merge](https://ethereum.org/en/upgrades/merge/) is the most significant update in the history of Ethereum, and as I type it is expected to take place around 4am UTC on Thursday, 15 Sep, 2022.
+The [Ethereum Merge](https://ethereum.org/en/upgrades/merge/) is the most significant update in the history of Ethereum, and people around the world will be partying as it happens around 4am UTC on Thursday, 15 Sep, 2022.
 
-There will be Merge parties taking place worldwide. So we thought... ***why not merge the Merge?***
+Here's a fun idea for merging EVERY Merge party into ONE Merge party! All you need is your smartphone and [Twitter Live](https://help.twitter.com/en/using-twitter/twitter-live)!
 
-## Merging the Merge
+##TL/DR
 
-Should be easy. Follow these steps:
+There are two ways you can help [**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge): 
 
-1. Bring a laptop or a tablet to a Merge party. Hell, use your phone!
+* [Share your party](#share-your-party) over Twitter Live with [**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge)!
 
-1. If you're the first to arrive with the gear, set up a [public Zoom call](https://www.youtube.com/watch?v=GHoyrHcIeNM) or [Google Hangout](https://support.google.com/hangouts/answer/3111943?hl=en&co=GENIE.Platform%3DDesktop) and tweet the connection URL with [**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge).
+* [Join a party](#join-a-party) by clicking a Twitter Live link at [**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge)!
 
-1. If somebody has already done that, then pick a random tweet off [**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge) and connect to _their_ call.
+## Share Your Party
 
-If enough people do this, then almost every Merge party in the world will be connected within just a couple of hops.
+These instructions are for the official Twitter app. Not all 3rd-party apps support Twitter Live!
+
+Here it is in 4 easy steps:
+
+1. Fire up your Twitter app, open up a new tweet, and hit the camera button.
+
+    <figure>
+      <a href="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-1.png" class="shadow"></a>
+    </figure>
+
+1. Enter hashtag [**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge). Bonus points: share your location!
+
+1. Select the **LIVE** option at the bottom of the camera screen.
+
+1. Hit the **Go LIVE** button.
+
+That's it! Your Merge party is live at the [**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge) hashtag!
+
+    <figure>
+      <a href="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-2.png" class="shadow"></a>
+    </figure>
+
+## Join a Party
+
+Joining another Merge party is even easier. Just open up the [**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge) hashtag and click a live feed on the list. 
+
+You're in!
+
+<figure>
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/join-a-party.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/join-a-party.png" class="shadow"></a>
+</figure>
+
+## Why Bother?
+
+If enough people do this, then almost every Merge party in the world will be connected within just a couple of hops. How cool is that??
 
 Have fun, and happy Merge! 🎉
