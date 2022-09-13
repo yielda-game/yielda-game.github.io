@@ -67,6 +67,6 @@ You're in!
 
 ## Why Bother?
 
-If enough people do this, then almost every Merge party in the world will be connected within just a couple of hops. How cool is that??
+If enough people do this, then almost every Merge party in the world will be connected within just a couple of hops. **How cool is that??**
 
 Have fun, and happy Merge! 🎉
