@@ -40,7 +40,7 @@ Here it is in 4 easy steps:
 1. Fire up your Twitter app, open up a new tweet, and hit the camera button.
 
     <figure>
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-1.png" class="shadow">
+      <a href="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-1.png" class="shadow" style="width: 200px;"></a>
     </figure>
 
 1. Enter hashtag [**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge). Bonus points: share your location!
@@ -50,7 +50,7 @@ Here it is in 4 easy steps:
 1. Hit the **Go LIVE** button.
 
     <figure>
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-2.png" class="shadow">
+      <a href="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/share-your-party-2.png" class="shadow" style="width: 200px;"></a>
     </figure>
 
 That's it! Your Merge party is live at the [**#MergeTheMerge**](https://twitter.com/hashtag/MergeTheMerge) hashtag!
@@ -62,7 +62,7 @@ Joining another Merge party is even easier. Just open up the [**#MergeTheMerge**
 You're in!
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/join-a-party.png" class="shadow">
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/join-a-party.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/join-a-party.png" class="shadow" style="width: 200px;"></a>
 </figure>
 
 ## Why Bother?
