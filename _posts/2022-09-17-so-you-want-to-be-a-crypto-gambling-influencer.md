@@ -15,7 +15,7 @@ toc: false
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/crypto-gambling.png">
 </figure>
 
-Are you building a social media community in that crossover point where crypto investing meets online gambling? Let's do some business!
+Are you building a social media community at that crossover point where crypto investing meets online gambling? **Let's do business!**
 
 PonziFarm is running live on the testnets right now, but we want to build a community of interest before we launch on the mainnets, hopefully within the next couple of months.
 
