@@ -17,7 +17,7 @@ toc: false
 
 Are you building a social media community at that crossover point where crypto investing meets online gambling? **Let's do business!**
 
-PonziFarm is running [live on the testnets](https://preview.ponzifarm.com) right now, but we want to build a community of interest before we launch on the mainnets, hopefully within the next couple of months.
+**ponziFarm** is running [live on the testnets](https://preview.ponzifarm.com) right now, but we want to build a community of interest before we launch on the mainnets, hopefully within the next couple of months.
 
 We're looking for social media micro-influencers in the 1-10k follower range to help us have a public conversation about **ponziFarm** and build an engaged community who will be ready to play when we hit the mainnets!
 
