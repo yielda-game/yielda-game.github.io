@@ -35,6 +35,7 @@ Until we launch on the mainnets, ponziFarm is pre-revenue. But if we launch well
 
 **We will grant you** 1% of our management fee for the first game on each mainnet, delivered instantly following each player deposit as described [here](/blog/making-money/#operating-the-game), plus whatever you can earn using our [Referral Program](/blog/referrals).
 
-If it turns out that your help was effective in getting is through the first games, then we will ABSOLUTELY engage with you to continue your support across future games, and for a higher rate.
+**FUTURE ALERT:** If it turns out that your help was effective in getting is through the first games, then we will ABSOLUTELY engage with you to continue your support across future games, and at a higher rate!
+{: .notice--primary}
 
 Want to learn more? Here's a [pitch deck](/influencer-pitch) aimed at influencers like you. Please share it with your social-media pals... and drop a comment below or use the contact info in the pitch deck to tell us what you think!
