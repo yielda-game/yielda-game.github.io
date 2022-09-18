@@ -2,7 +2,7 @@
 title: "Ponzi What?"
 excerpt: "ponziFarm is a crypto game of nerve and bluster. Real money is on the table. Strong players will make a killing. Weak ones will lose their shirts."
 header:
-  teaser: /assets/images/bio-photo.png
+  teaser: /assets/images/ponzifarm.png
 categories:
   - Blog
 tags:
@@ -11,7 +11,7 @@ toc: false
 ---
 
 <figure class="align-left" style="margin-top: 10px; margin-bottom: 10px; width: 150px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.png">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ponzifarm.png">
 </figure>
 
 **ponziFarm** is a crypto game of nerve and bluster. Real money is on the table and the stakes are high. Strong players will make a killing. Weak ones will lose their shirts.
