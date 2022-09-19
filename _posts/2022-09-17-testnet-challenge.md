@@ -24,7 +24,7 @@ Here's how it works:
 
 1. **Retweet our contest announcement or a link to this page with your public wallet address!** We'll only count deposits you made AFTER you did that.
 
-1. **Play any [ponziFarm testnet preview](https://preview.ponzifarm.com) game!** These games use testnet cash, so they're free to play! We currently support the ETH, MATIC & AVAX testnets.
+1. **Play any [ponziFarm testnet preview](https://preview.ponzifarm.com) game!** These games use testnet cash, so they're free to play! We currently support the ETH, MATIC & AVAX testnets. Be sure to deposit from the wallet you RT'd above!
 
 We'll track your profits. When your testnet game ends, **the top 10 qualified players will get a percentage of the management fee** from the next MAINNET game on the same blockchain. That's real money, folks! 
 
