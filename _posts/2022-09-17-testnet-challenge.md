@@ -22,7 +22,7 @@ Here's how it works:
 
 1. **Follow [@ponziFarm](https://twitter.com/ponziFarm) on Twitter!** We'll only count profits you make while you follow us.
 
-1. **Retweet the [contest announcement](https://twitter.com/ponziFarm/status/1571703710908030979?s=20&t=wV_xeRlio8okeI28AZtahg) or a link to this page with your public wallet address!** We'll only count deposits you made AFTER you did that.
+1. **Retweet any [contest announcement](https://twitter.com/ponziFarm/status/1571703710908030979?s=20&t=wV_xeRlio8okeI28AZtahg) or a link to this page with your public wallet address!** We'll only count deposits you made AFTER you did that.
 
 1. **Play any [ponziFarm testnet preview](https://preview.ponzifarm.com) game!** These games use testnet cash, so they're free to play! We currently support the ETH, MATIC & AVAX testnets. Be sure to deposit from the wallet you RT'd above!
 
