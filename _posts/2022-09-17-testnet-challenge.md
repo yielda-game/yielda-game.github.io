@@ -1,6 +1,6 @@
 ---
 title: "ponziFarm Testnet Challenge"
-excerpt: "Play any ponziFarm testnet preview game and win an income stream from the very next mainnet game!"
+excerpt: "Play any ponziFarm testnet preview game and win an ETH, MATIC, or AVAX income stream from the very next mainnet game!"
 header:
   teaser: /assets/images/testnet.png
 categories:
