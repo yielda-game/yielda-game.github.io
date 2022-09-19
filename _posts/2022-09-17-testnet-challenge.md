@@ -1,6 +1,6 @@
 ---
 title: "ponziFarm Testnet Challenge"
-excerpt: "Play any ponziFarm testnet preview game and win an ETH, MATIC, or AVAX income stream from the very next mainnet game!"
+excerpt: "Play any free ponziFarm testnet preview game and win an ETH, MATIC, or AVAX income stream from the very next mainnet game!"
 header:
   teaser: /assets/images/testnet.png
 categories:
@@ -16,7 +16,7 @@ toc: false
 
 Ready to have some fun and make come serious coin? Take the **ponziFarm Testnet Challenge!**
 
-Play any ponziFarm [testnet preview game](https://preview.ponzifarm.com) and win an ETH, MATIC, or AVAX income stream from the very next mainnet game! 
+Play any ponziFarm [testnet preview game](https://preview.ponzifarm.com) for free and win an ETH, MATIC, or AVAX income stream from the very next mainnet game! 
 
 Here's how it works:
 
