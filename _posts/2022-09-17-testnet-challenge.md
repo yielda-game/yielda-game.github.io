@@ -16,7 +16,7 @@ toc: false
 
 Ready to have some fun and make come serious coin? Take the **ponziFarm Testnet Challenge!**
 
-Play any ponziFarm [testnet preview game](https://preview.ponzifarm.com) and win an income stream from the very next mainnet game! 
+Play any ponziFarm [testnet preview game](https://preview.ponzifarm.com) and win an ETH, MATIC, or AVAX income stream from the very next mainnet game! 
 
 Here's how it works:
 
