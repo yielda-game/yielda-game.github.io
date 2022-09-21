@@ -1,6 +1,6 @@
 ---
 title: "A Glowing Review"
-excerpt: "Play any free ponziFarm testnet preview game and win an ETH, MATIC, or AVAX income stream from the very next mainnet game!"
+excerpt: "This is an amazing endorsement from one of the top analysts in the GameFi space! Also a word of caution: time to re-brand."
 header:
   teaser: /assets/images/review.png
 categories:
@@ -14,7 +14,7 @@ toc: false
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/review.png">
 </figure>
 
-A friend runs a company here on Bali that provides analysis & reviews to investors in the GameFi space. He asked his lead analyst to take a look at ponziFarm. 
+A friend runs a company here on Bali that provides analysis & reviews to investors in the [GameFi](https://builtin.com/blockchain/gamefi) space. He asked his lead analyst to take a look at ponziFarm. 
 
 Here's what he said:
 
@@ -38,11 +38,11 @@ Here's what he said:
 >
 > Players are encouraged to build up networks due to the referral bonuses. This builds up like a pyramid scheme, where the player at the top earns bonuses from the tier below him and every tier after that. So it's best to be at the top of the referral tree. 
 >
-> Bottom line: This is a clever game that builds on a very basic case premise in game theory, the "prisoner's dilemma". 
+> Bottom line: This is a clever game that builds on a very basic case premise in game theory, the [_Prisoner's Dilemma_](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma). 
 >
 > Game theory is the science of strategic thinking. It studies how players should act in different situations, in order to maximize the probability for a positive outcome and minimize the negative outcome for themselves or for a group. There are logical/mathematical patterns for these situations, as countless examples of similar situations have been constructed into different game theories. 
 >
-> This game is a mix of the prisoner's dilemma and the "stag hunt". The latter examines how a group should act, when hunting small game or large game in a competition where the goal is to score the highest (various points and combinations for the small/large animals), in order to win.
+> This game is a mix of the prisoner's dilemma and the [_Stag Hunt_](https://en.wikipedia.org/wiki/Stag_hunt). The latter examines how a group should act, when hunting small game or large game in a competition where the goal is to score the highest (various points and combinations for the small/large animals), in order to win.
 >
 > If you are looking at this to invest, I would say that it will work. It has a "thrill factor" to it. It's not a passive staking game. It's a race. 
 >
