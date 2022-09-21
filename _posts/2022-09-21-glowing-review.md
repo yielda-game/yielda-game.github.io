@@ -44,7 +44,7 @@ Here's what he said:
 >
 > Clever players will know how to bet, based on what the game data tells them. If they have bags, they can sacrifice a smaller portion of their funds to skew the game in the direction they want, in order to gain more than they lose (say invest a losing 20% to throw the numbers off, in order for all shorter bets to win etc).
 >
-> This game of is really clever! It's the most interesting and engaging DeFi project I’ve seen so far. It’s actually the most truly "GameFi" project I’ve looked at. 
+> This game is really clever! It's the most interesting and engaging DeFi project I’ve seen so far. It’s actually the most truly "GameFi" project I’ve looked at. 
 >
 > About the name... I’m not so sure the author realizes how badly "ponziFarm" will go down among crypto enthusiasts. Anyone outside of crypto will immediately think “scam”!
 >
