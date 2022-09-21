@@ -28,7 +28,7 @@ Here's what he said:
 > * Betray the team strategy to win yourself, but keep it a secret.
 > * Eject your cash if you're about to lose, but lose all the compounded interest and a chunk of the initial deposit. 
 >
-> In essence, this is a strategic simulator, where the factors for winning changes with every bet. Seems some form of AI will be added later to adjust the game parameters intelligently. 
+> ponziFarm is a strategic simulator, where the factors for winning changes with every bet. Seems some form of AI will be added later to adjust the game parameters intelligently. 
 >
 > PonziFarm gets a chunk of change every time someone places a bet, regardless of the outcome. This can be shared with partners/investors.
 >
