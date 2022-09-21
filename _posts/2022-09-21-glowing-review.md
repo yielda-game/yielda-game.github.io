@@ -23,13 +23,9 @@ Here's what he said:
 > In essence, it's a strategy game, where you can employ various tactics to maximize profits. 
 >
 > * Placing bets, depending on the nature of the game. 
->
 > * Placing further bets to change the nature of the game.
->
 > * Join teams to improve your chances at winning for all included.
->
 > * Betray the team strategy to win yourself, but keep it a secret.
->
 > * Eject your cash if you're about to lose, but lose all the compounded interest and a chunk of the initial deposit. 
 >
 > In essence, this is a strategic simulator, where the factors for winning changes with every bet. Seems some form of AI will be added later to adjust the game parameters intelligently. 
