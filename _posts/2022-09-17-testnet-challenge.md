@@ -1,6 +1,6 @@
 ---
-title: "ponziFarm Testnet Challenge"
-excerpt: "Play any free ponziFarm testnet preview game and win an ETH, MATIC, or AVAX income stream from the very next mainnet game!"
+title: "Yielda Testnet Challenge"
+excerpt: "Play any free Yielda testnet preview game and win an ETH, MATIC, or AVAX income stream from the very next mainnet game!"
 header:
   teaser: /assets/images/testnet.png
 categories:
@@ -14,25 +14,25 @@ toc: false
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/testnet.png">
 </figure>
 
-Ready to have some fun and make come serious coin? Take the **ponziFarm Testnet Challenge!**
+Ready to have some fun and make come serious coin? Take the **Yielda Testnet Challenge!**
 
-Play any ponziFarm [testnet preview game](https://preview.ponzifarm.com) for free and win an ETH, MATIC, or AVAX income stream from the very next mainnet game! 
+Play any Yielda [testnet preview game](https://preview.yielda.io) for free and win an ETH, MATIC, or AVAX income stream from the very next mainnet game! 
 
 Here's how it works:
 
-1. **Follow [@ponziFarm](https://twitter.com/ponziFarm) on Twitter!** We'll only count profits you make while you follow us.
+1. **Follow [@Yielda](https://twitter.com/Yielda) on Twitter!** We'll only count profits you make while you follow us.
 
 1. **Tweet any of the following** along with your public wallet address:
 
-    * Retweet any [contest announcement](https://twitter.com/ponziFarm/status/1571703710908030979?s=20&t=wV_xeRlio8okeI28AZtahg).
+    * Retweet any [contest announcement](https://twitter.com/Yielda/status/1571703710908030979?s=20&t=wV_xeRlio8okeI28AZtahg).
     
-    * Tweet your [referral link](https://blog.ponzifarm.com/blog/referrals) from a [testnet game](https://preview.ponzifarm.com). 
+    * Tweet your [referral link](https://blog.yielda.io/blog/referrals) from a [testnet game](https://preview.yielda.io). 
     
     * Tweet a link to [this page](/blog/testnet-challenge).
     
     Don't forget to include your public wallet address! We'll only count deposits you made AFTER you send this tweet.
 
-1. **Play any [ponziFarm testnet preview](https://preview.ponzifarm.com) game!** These games use testnet cash, so they're free to play. We currently support the ETH, MATIC & AVAX testnets. Be sure to deposit from the wallet you RT'd above!
+1. **Play any [Yielda testnet preview](https://preview.yielda.io) game!** These games use testnet cash, so they're free to play. We currently support the ETH, MATIC & AVAX testnets. Be sure to deposit from the wallet you RT'd above!
 
 We'll track your profits. When your testnet game ends, **the top 10 qualified players will get a percentage of the management fee** from the next MAINNET game on the same blockchain. That's real money, folks! 
 

@@ -1,6 +1,6 @@
 ---
 title: "Deposit Summary Explained"
-excerpt: "An explanation of all the real-time stats and graphs displayed in the ponziFarm deposit summary panel."
+excerpt: "An explanation of all the real-time stats and graphs displayed in the Yielda deposit summary panel."
 header:
   teaser: /assets/images/deposits.png
 categories:
@@ -15,7 +15,7 @@ toc: true
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/depossits.png">
 </figure>
 
-Once you have deposited to a **ponziFarm** game, the game dashboard will display a list of your deposits to the game just below your [Player Summary](/blog/player-summary).
+Once you have deposited to a **Yielda** game, the game dashboard will display a list of your deposits to the game just below your [Player Summary](/blog/player-summary).
 
 This list will track all of your deposits, giving your details of their performance as well as controls to let you withdraw your deposits at maturity or eject them from the game.
 
@@ -34,7 +34,7 @@ You  can also sort your list by **Creation**. In this case, the most recently cr
 
 ## Contract Link
 
-Each deposit to a **PonziFarm** game is represented by a smart contract on the relevant blockchain. Each deposit in your list features a link to the deposit's smart contract in the relevant blockchain explorer. 
+Each deposit to a **Yielda** game is represented by a smart contract on the relevant blockchain. Each deposit in your list features a link to the deposit's smart contract in the relevant blockchain explorer. 
 
 ## Action Button
 

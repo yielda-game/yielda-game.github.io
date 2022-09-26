@@ -1,8 +1,8 @@
 ---
-title: "Getting Started with ponziFarm"
-excerpt: "PonziFarm is a crypto-based, investment-style game where manipulating the 'system' is not only allowed but encouraged! Here's how to get started!"
+title: "Getting Started with Yielda"
+excerpt: "Yielda is a crypto-based, investment-style game where manipulating the 'system' is not only allowed but encouraged! Here's how to get started!"
 header:
-  teaser: /assets/images/ponzifarm.png
+  teaser: /assets/images/yielda-mark-light.png
 categories:
   - Blog
 tags:
@@ -12,16 +12,16 @@ toc: false
 ---
 
 <figure class="align-left" style="margin-top: 10px; margin-bottom: 10px; width: 150px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ponzifarm.png">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yielda-mark-light.png">
 </figure>
 
-**ponziFarm** is a crypto-based, investment-style game where manipulating the "system" is not only allowed but encouraged! 
+**Yielda** is a crypto-based, investment-style game where manipulating the "system" is not only allowed but encouraged! 
 
 Sounds sketchy, right? 🤣 See [this post](/blog/making-money-with-ponzifarm) to learn why it isn't, and how to make real money playing the game!
 
 Meanwhile, before you get started...
 
-1. **You need a crypto wallet with some funds in it!** In our [testnet preview](https://preview.ponzifarm.com) we support ETH & MATIC on the Goerli & Mumbai testnets. When we [go live](https://ponzifarm.com) you can play with either currency on the related mainnets. More to come... we support [every EVM blockchain](https://coinguides.org/evm-blockchains-add-evm-network/)!
+1. **You need a crypto wallet with some funds in it!** In our [testnet preview](https://preview.yielda.io) we support ETH & MATIC on the Goerli & Mumbai testnets. When we [go live](https://yielda.io) you can play with either currency on the related mainnets. More to come... we support [every EVM blockchain](https://coinguides.org/evm-blockchains-add-evm-network/)!
 
     <figure>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/faucet-button.png" class="shadow">
@@ -30,9 +30,9 @@ Meanwhile, before you get started...
 
 2. **You need MetaMask to play!** You can explore any game in any browser, but to make or withdraw a deposit you'll either need the MetaMask browser extension (on your laptop) or the MetaMask app's built-in browser (on your mobile device). Click [here](https://metamask.io/download/) to install MetaMask. 
 
-Once you have that stuff out of the way, playing **ponziFarm** is simple:
+Once you have that stuff out of the way, playing **Yielda** is simple:
 
-* Visit the current game dashboard on our [testnet preview](https://preview.ponzifarm.com) or the [mainnet site](https://ponzifarm.com).
+* Visit the current game dashboard on our [testnet preview](https://preview.yielda.io) or the [mainnet site](https://yielda.io).
 
 * ETH is the default currency. Use the dropdown at the top of the page to choose a different one if you like.
 
@@ -52,4 +52,4 @@ Once you have that stuff out of the way, playing **ponziFarm** is simple:
 
 * Don't forget to share your [referral link](/blog/referrals) on social media to earn referral fees from your social network!
 
-See? Easy as pie. Click [here](/blog/making-money-with-ponzifarm) for a deep dive on all this, as well as more ways to earn money on the ponziFarm platform!
+See? Easy as pie. Click [here](/blog/making-money-with-ponzifarm) for a deep dive on all this, as well as more ways to earn money on the Yielda platform!

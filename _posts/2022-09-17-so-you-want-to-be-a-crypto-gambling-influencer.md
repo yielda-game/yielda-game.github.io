@@ -17,11 +17,11 @@ toc: false
 
 Are you building a social media community at that crossover point where crypto investing meets online gambling? **Let's do business!**
 
-**ponziFarm** is running [live on three testnets](https://preview.ponzifarm.com) right now, but we want to build a community of interest before we launch on the mainnets, hopefully within the next couple of months.
+**Yielda** is running [live on three testnets](https://preview.yielda.io) right now, but we want to build a community of interest before we launch on the mainnets, hopefully within the next couple of months.
 
-We're looking for social media micro-influencers in the 1-10k follower range to help us have a public conversation about **ponziFarm** and build an engaged community who will be ready to play when we hit the mainnets!
+We're looking for social media micro-influencers in the 1-10k follower range to help us have a public conversation about **Yielda** and build an engaged community who will be ready to play when we hit the mainnets!
 
-Do [a little clicking around](/blog/ponzi-what) here and you will see that **ponziFarm** embraces **radical transparency**. In that spirit, we seek **ENGAGEMENT not ENDORSEMENT**!
+Do [a little clicking around](/blog/what-is-yielda) here and you will see that **Yielda** embraces **radical transparency**. In that spirit, we seek **ENGAGEMENT not ENDORSEMENT**!
 
 Ask us hard questions in public. Make us explain ourselves to your satisfaction. Show your followers you mean business. All we ask is an opportunity to impress you and them. **If we fail, that's on us!**
 
@@ -29,7 +29,7 @@ Ask us hard questions in public. Make us explain ourselves to your satisfaction.
 
 We get it: **you don't work for free!** Why should you?
 
-Until we launch on the mainnets, **ponziFarm** is pre-revenue. But if we launch well, our first mainnet games will make a ton of money! So here's what we are offering:
+Until we launch on the mainnets, **Yielda** is pre-revenue. But if we launch well, our first mainnet games will make a ton of money! So here's what we are offering:
 
 **You engage us** in a meaningful exchange on your platform, once a week, through our mainnet launch until the end of our first round of mainnet games. We hope to launch in 8-12 weeks, and a typical game lasts 4-8 weeks, so figure somewhere between 12 and 20 meaningful weekly engagements. If we do OUR job right, you'll want more!
 
