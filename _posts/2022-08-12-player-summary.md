@@ -1,6 +1,6 @@
 ---
 title: "Player Summary Explained"
-excerpt: "An explanation of all the real-time stats and graphs displayed in the ponziFarm player summary panel."
+excerpt: "An explanation of all the real-time stats and graphs displayed in the Yielda player summary panel."
 header:
   teaser: /assets/images/search-stats.png
 categories:
@@ -15,7 +15,7 @@ toc: true
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/search-stats.png">
 </figure>
 
-Once you have deposited to a **ponziFarm** game, the game dashboard will display a summary of your activity and performance in that game.
+Once you have deposited to a **Yielda** game, the game dashboard will display a summary of your activity and performance in that game.
 
 If the game is live, these stats will be updated in real time as you interact with the game. Once you have generated enough data, this summary will also display interactive graphs of your statistics over the life of the game.
 
@@ -54,13 +54,13 @@ This stat displays a running count of the rebates you have earned in the selecte
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/player-stat-referrals.png" class="shadow">
 </figure>
 
-Every **ponziFarm** player gets a referral link to share with friends. When your friend makes a deposit to any game, you earn a referral fee, paid instantly to your crypto wallet. Referral fees are shared up the referral chain, so it pays to build a network!
+Every **Yielda** player gets a referral link to share with friends. When your friend makes a deposit to any game, you earn a referral fee, paid instantly to your crypto wallet. Referral fees are shared up the referral chain, so it pays to build a network!
 
 Referral rates and upline cuts vary from game to game. These and other game parameters are displayed in the Game Rules panel at the bottom of every game dashboard.
 
 This stat keeps a running count of the number of direct and indirect referral fees you have earned during this game, as well as their total value. Once charts appear, click the **Referrals** stat to see a graph of both metrics over time.
 
-Click [here](/blog/referrals) to learn more about **ponziFarm** referrals!
+Click [here](/blog/referrals) to learn more about **Yielda** referrals!
 
 ### Withdrawals
 
@@ -78,7 +78,7 @@ Once charts appear, click the **Withdrawals** stat to see a graph of both metric
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/player-stat-ejections.png" class="shadow">
 </figure>
 
-Some **ponziFarm** games permit **ejection**: an early withdrawal of your deposit, prior to the expiration of its lockup period. Ejection can prevent a total loss of your deposit, but it comes at a price: you forfeit all of your deposit's daily returns, and also pay a penalty out of your initial deposit value. So choose wisely!
+Some **Yielda** games permit **ejection**: an early withdrawal of your deposit, prior to the expiration of its lockup period. Ejection can prevent a total loss of your deposit, but it comes at a price: you forfeit all of your deposit's daily returns, and also pay a penalty out of your initial deposit value. So choose wisely!
 
 Ejection availability and the penalty paid vary from game to game. Check the Game Rules panel at the bottom of every game dashboard to see these and other game parameters.
 

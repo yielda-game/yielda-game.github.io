@@ -1,6 +1,6 @@
 ---
 title: "Game Summary Explained"
-excerpt: "An explanation of all the real-time stats and graphs displayed in the ponziFarm game summary panel."
+excerpt: "An explanation of all the real-time stats and graphs displayed in the Yielda game summary panel."
 header:
   teaser: /assets/images/search-stats.png
 categories:
@@ -15,7 +15,7 @@ toc: true
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/search-stats.png">
 </figure>
 
-The top of your **ponziFarm** game dashboard displays summary stats of the currently selected game. 
+The top of your **Yielda** game dashboard displays summary stats of the currently selected game. 
 
 If the game is live, these stats will be updated in real time as players interact with the game. Once the game has run for a few days, this summary will also display interctive graphs of game statistics over the life of the game.
 
@@ -30,7 +30,7 @@ Each game is numbered by blockchain, beginning with #0. Only one game runs at a 
 
 ## Game Status
 
-Every ponziFarm game has a status. It will be one of the following:
+Every Yielda game has a status. It will be one of the following:
 
 * **Current** - The ongoing game, or the upcoming one if the previous game has ended.
 * **Ended** - Just what it sounds like.
@@ -40,7 +40,7 @@ Once the first game (i.e. Game #0) has ended, the **All Games** link will appear
 
 ## Game Contract Link
 
-The game header features a link to the current game's smart contract on the relevant blockchain scanner. Currently this doesn't tell you much, but soon we intend to add contract source code validation features that will help certify the integrity of the **ponziFarm** application.
+The game header features a link to the current game's smart contract on the relevant blockchain scanner. Currently this doesn't tell you much, but soon we intend to add contract source code validation features that will help certify the integrity of the **Yielda** application.
 
 ## Game Stats
 
@@ -95,13 +95,13 @@ This stat displays a running count of the rebates paid out in the selected game,
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-referrals.png" class="shadow">
 </figure>
 
-Every **ponziFarm** player gets a referral link to share with friends. When your friend makes a deposit to any game, you earn a referral fee, paid instantly to your crypto wallet. Referral fees are shared up the referral chain, so it pays to build a network!
+Every **Yielda** player gets a referral link to share with friends. When your friend makes a deposit to any game, you earn a referral fee, paid instantly to your crypto wallet. Referral fees are shared up the referral chain, so it pays to build a network!
 
 Referral rates and upline cuts vary from game to game. These and other game parameters are displayed in the Game Rules panel at the bottom of every game dashboard.
 
 This stat keeps a running count of the number of direct and indirect referral fees paid during the game, as well as their total value. Once the game has run for a few days, click the **Referrals** stat to see a graph of both metrics over time.
 
-Click [here](/blog/referrals) to learn more about **ponziFarm** referrals!
+Click [here](/blog/referrals) to learn more about **Yielda** referrals!
 
 ### Withdrawals
 
@@ -119,7 +119,7 @@ Once the game has run for a few days, click the **Withdrawals** stat to see a gr
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/game-stat-ejections.png" class="shadow">
 </figure>
 
-Some **ponziFarm** games permit **ejection**: an early withdrawal of your deposit, prior to the expiration of its lockup period. Ejection can prevent a total loss of your deposit, but it comes at a price: you forfeit all of your deposit's daily returns, and also pay a penalty out of your initial deposit value. So choose wisely!
+Some **Yielda** games permit **ejection**: an early withdrawal of your deposit, prior to the expiration of its lockup period. Ejection can prevent a total loss of your deposit, but it comes at a price: you forfeit all of your deposit's daily returns, and also pay a penalty out of your initial deposit value. So choose wisely!
 
 Ejection availability and the penalty paid vary from game to game. Check the Game Rules panel at the bottom of every game dashboard to see these and other game parameters.
 

@@ -1,6 +1,6 @@
 ---
 title: "Game Rules Explained"
-excerpt: "PonziFarm game rules vary from game to game in order to optimize the player experience. Here is an explanation of each game parameter."
+excerpt: "Yielda game rules vary from game to game in order to optimize the player experience. Here is an explanation of each game parameter."
 header:
   teaser: /assets/images/rules.png
 categories:
@@ -14,27 +14,27 @@ toc: true
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/rules.png">
 </figure>
 
-Like any game, **ponziFarm** has rules.
+Like any game, **Yielda** has rules.
 
 Unlike most games, our rules are implemented as smart contracts. This creates a level of transparency and security you will never find in a bricks-and-mortar casino, much less any back-room poker game!
 
-So play with confidence... and also with care. While the rules of **ponziFarm** can't be _broken_, they CAN be _exploited_. And players who figure out how to do that are going to play at a _very_ profitable advantage!
+So play with confidence... and also with care. While the rules of **Yielda** can't be _broken_, they CAN be _exploited_. And players who figure out how to do that are going to play at a _very_ profitable advantage!
 
 We hope you're one of them.
 
 ## General Rules
 
-**ponziFarm is a GAME, not an INVESTMENT!** Some players will win big. Many will make a tidy profit. The rest will lose their deposits!
+**Yielda is a GAME, not an INVESTMENT!** Some players will win big. Many will make a tidy profit. The rest will lose their deposits!
 
-**ponziFarm is an exercise in game theory!** There is perfect transparency. Everybody knows the deal. Invite your friends help keep the game going! They will ALSO know the deal.
+**Yielda is an exercise in game theory!** There is perfect transparency. Everybody knows the deal. Invite your friends help keep the game going! They will ALSO know the deal.
 
-**Every ponziFarm game is alike!** Decide how much to deposit and how long to lock it up. Earn instant rebates and referral fees. The return on your deposit is compounded daily. If you withdraw your deposit before the game runs out of money, congrats! If not... GAME OVER.
+**Every Yielda game is alike!** Decide how much to deposit and how long to lock it up. Earn instant rebates and referral fees. The return on your deposit is compounded daily. If you withdraw your deposit before the game runs out of money, congrats! If not... GAME OVER.
 
-**Every ponziFarm game is different!** We vary game parameters from game to game in order to optimize the player experience.
+**Every Yielda game is different!** We vary game parameters from game to game in order to optimize the player experience.
 
 ## Game Parameters
 
-Every **ponziFarm** game is slightly different!
+Every **Yielda** game is slightly different!
 
 Each game has a number of parameters, which we vary from game to game in an effort to optimize the player experience. Once a game starts, its parameters are set in stone and can never be changed again!
 
@@ -65,9 +65,9 @@ While management fees reduce the game balance, they do NOT affect the value of y
 
 ### Referrals
 
-Every new **ponziFarm** player gets a referral link to share with friends and on social media. This link is permanently connected with the crypto wallet you used to make your deposit.
+Every new **Yielda** player gets a referral link to share with friends and on social media. This link is permanently connected with the crypto wallet you used to make your deposit.
 
-When a friend clicks your link and makes a deposit, your wallet is permanently designated as their wallet's _upline_. From then on, every **ponziFarm** deposit from your friend's wallet will generate a referral fee, transferred instantly from the game to your wallet. The percentage of this fee is the game's **Referral Bonus**.
+When a friend clicks your link and makes a deposit, your wallet is permanently designated as their wallet's _upline_. From then on, every **Yielda** deposit from your friend's wallet will generate a referral fee, transferred instantly from the game to your wallet. The percentage of this fee is the game's **Referral Bonus**.
 
 If your wallet _also_ has an upline, then this wallet will get a cut of the referral fee you received due to your friend's deposit. This pattern continues up the upline chain until the fee becomes smaller than the gas required to transfer it. The percentage of this cut is the game's **Upline Cut**.
 

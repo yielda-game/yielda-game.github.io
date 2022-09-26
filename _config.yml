@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ponziFarm blog
+title: Yielda Blog
 subtitle: opening the kimono
-url: https://blog.ponzifarm.com
-repository: ponzifarm/ponzifarm.github.io
+url: https://blog.yielda.io
+repository: yielda-game/yielda-game.github.io
 email:
 # description: >- # this means to ignore newlines until "baseurl:"
   we saw what you did there 
-github_username: ponzifarm
-minimal_mistakes_skin: ponzifarm
+github_username: yielda-game
+minimal_mistakes_skin: yielda
 search: true
 
 # Build settings
@@ -59,61 +59,61 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  # name   : "ponziFarm"
+  # name   : "Yielda"
   avatar : "/assets/images/bio-photo.png"
   # bio    : "WAY too good to be true!"
   links:
-    - label: "Ponzi What?"
+    - label: "What is Yielda?"
       icon: "fa fa-fw fa-question-circle"
-      url: "/blog/ponzi-what/"
-    - label: "Play PonziFarm!"
+      url: "/blog/what-is-yielda/"
+    - label: "Play Yielda!"
       icon: "fa fa-fw fa-play"
-      url: "https://ponzifarm.com"
+      url: "https://yielda.io"
     - label: "Try it on Testnet!"
       icon: "fa fa-fw fa-step-forward"
-      url: "https://preview.ponzifarm.com"
+      url: "https://preview.yielda.io"
     - label: "Releases"
       icon: "fas fa-fw fa-cloud-upload-alt"
       url: "/blog/releases"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/ponziFarm"
+      url: "https://twitter.com/yielda_game"
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/ponzi_farm"
+      url: "https://t.me/yielda_game"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/GUbqTCuPvh"
     - label: "Email"
       icon: "fa fa-fw fa-envelope"
-      url: "mailto:ponzifarm@gmail.comx"
+      url: "mailto:hello@yielda.io"
 
 footer:
   links:
-    - label: "Ponzi What?"
+    - label: "What is Yielda?"
       icon: "fa fa-fw fa-question-circle"
-      url: "/blog/ponzi-what/"
-    - label: "Play PonziFarm!"
+      url: "/blog/what-is-yielda/"
+    - label: "Play Yielda!"
       icon: "fa fa-fw fa-play"
-      url: "https://ponzifarm.com"
+      url: "https://yielda.io"
     - label: "Try it on Testnet!"
       icon: "fa fa-fw fa-step-forward"
-      url: "https://preview.ponzifarm.com"
+      url: "https://preview.yielda.io"
     - label: "Releases"
       icon: "fas fa-fw fa-cloud-upload-alt"
       url: "/blog/releases"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/ponziFarm"
+      url: "https://twitter.com/yielda_game"
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/ponzi_farm"
+      url: "https://t.me/yielda_game"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/GUbqTCuPvh"
     - label: "Email"
       icon: "fa fa-fw fa-envelope"
-      url: "mailto:ponzifarm@gmail.comx"
+      url: "mailto:hello@yielda.io"
 
 defaults:
   # _posts
@@ -150,7 +150,7 @@ tag_archive:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "ponzifarm"
+    shortname: "yielda"
 
 # Required to get the site to run locally.
 github: [metadata]
