@@ -1,21 +1,23 @@
 ---
-title: "So You Want To Be a Crypto Gambling Influencer"
-excerpt: "We're inviting micro-influencers in the crypto investing / online gambling crossover space to help us build a community of interest!"
+title: "So You Want To Be a GameFi Influencer"
+excerpt: "We're inviting micro-influencers in the crypto investing / GameFi crossover space to help us build our user community!"
 header:
-  teaser: /assets/images/crypto-gambling.png
+  teaser: /assets/images/influencer.png
 categories:
   - Blog
 tags:
   - deposits
   - rules
 toc: false
+redirect_from:
+  - /blog/so-you-want-to-be-a-crypto-gambling-influencer
 ---
 
 <figure class="align-left" style="margin-top: 10px; margin-bottom: 10px; width: 150px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/crypto-gambling.png">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/influencer.png">
 </figure>
 
-Are you building a social media community at that crossover point where crypto investing meets online gambling? **Let's do business!**
+Are you building a social media community at that crossover point where crypto investing meets GameFi? **Let's do business!**
 
 **Yielda** is running [live on three testnets](https://preview.yielda.io) right now, but we want to build a community of interest before we launch on the mainnets, hopefully within the next couple of months.
 
