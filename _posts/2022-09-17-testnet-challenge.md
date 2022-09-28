@@ -16,6 +16,16 @@ toc: false
 
 Ready to have some fun and make come serious coin? Take the **Yielda Testnet Challenge!**
 
+**Yielda** is an irreverent Web3 social strategy game that is interesting, engaging, provably fair, and insanely profitable. There's real money on the table and the stakes are high! 
+
+Here's what one analyst had to say about it:
+
+> Yielda is the most purely GameFi project I've seen!
+
+**Yielda** is launching on the mainnets in just a couple of months. Help us build our user community and stress-test the game ahead of that event, and you can participate in our success!
+
+## The Challenge
+
 Play any Yielda [testnet preview game](https://preview.yielda.io) for free and win an ETH, MATIC, or AVAX income stream from the very next mainnet game! 
 
 Here's how it works:
