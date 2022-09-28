@@ -1,5 +1,5 @@
 ---
-title: "Yielda Testnet Challenge"
+title: "Take the Yielda Testnet Challenge!"
 excerpt: "Play any free Yielda testnet preview game and win an ETH, MATIC, or AVAX income stream from the very next mainnet game!"
 header:
   teaser: /assets/images/testnet.png
