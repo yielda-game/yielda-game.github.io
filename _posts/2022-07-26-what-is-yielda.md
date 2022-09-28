@@ -25,7 +25,7 @@ Real Ponzi schemes pretend to be *investments* and prey on the greedy and stupid
 Invite your friends! Referral fees are generous and paid instantly. Your referral relationships are permanent and as deep as your social
 network. Just remember: *everybody knows the deal.*
 
-Interact with other players on [Telegram](https://t.me/yielda_game), [Discord](https://discord.gg/GUbqTCuPvh), and other social media! Our game metrics might be 100% accurate in real time... but YOU can say what you want.
+Interact with other players on [Twitter](https://twitter.com/yielda_game), [Telegram](https://t.me/yielda_game), and other social media! Our game metrics might be 100% accurate in real time... but YOU can say what you want.
 
 > All warfare is based on deception.
 >
@@ -33,7 +33,7 @@ Interact with other players on [Telegram](https://t.me/yielda_game), [Discord](h
 
 Just remember: ***everybody knows the deal!*** 😇
 
-A [preview release](https://preview.yielda.io) is already running on the ETH & MATIC testnets, and we should be running in production on the related mainnets by the end of September 2022. Meanwhile, say hello on [Telegram](https://t.me/yielda_game) or [Discord](https://discord.gg/GUbqTCuPvh), and follow us here to explore preview releases, share bug reports, and suggest new features!
+A [preview release](https://preview.yielda.io) is already running on the ETH & MATIC testnets, and we should be running in production on the related mainnets by the end of September 2022. Meanwhile, say hello on [Twitter](https://twitter.com/yielda_game) or [Telegram](https://t.me/yielda_game), and follow us here to explore preview releases, share bug reports, and suggest new features!
 
 <a class="btn btn--primary btn--large" href="https://preview.yielda.io" target="blank">Try the Yielda Tesnet Preview!</a>
 {:  .text-center}
