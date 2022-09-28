@@ -20,11 +20,11 @@ Play any Yielda [testnet preview game](https://preview.yielda.io) for free and w
 
 Here's how it works:
 
-1. **Follow [@Yielda](https://twitter.com/Yielda) on Twitter!** We'll only count profits you make while you follow us.
+1. **Follow [@Yielda](https://twitter.com/yielda_game) on Twitter!** We'll only count profits you make while you follow us.
 
 1. **Tweet any of the following** along with your public wallet address:
 
-    * Retweet any [contest announcement](https://twitter.com/Yielda/status/1571703710908030979?s=20&t=wV_xeRlio8okeI28AZtahg).
+    * Retweet any [contest announcement](https://twitter.com/yielda_game/status/1574915656973258752?s=20&t=AeS4WIkuqjf5Xf3HTiUrQg).
     
     * Tweet your [referral link](https://blog.yielda.io/blog/referrals) from a [testnet game](https://preview.yielda.io). 
     
