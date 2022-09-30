@@ -18,9 +18,7 @@ subtitle: opening the kimono
 description: Yielda is a Web3 social strategy game that is interesting, engaging, provably fair, and insanely profitable. Scheme like EVERYONE is watching!
 url: https://blog.yielda.io
 repository: yielda-game/yielda-game.github.io
-email:
-# description: >- # this means to ignore newlines until "baseurl:"
-  we saw what you did there 
+email: hello@yielda.io
 github_username: yielda-game
 minimal_mistakes_skin: yielda
 search: true
