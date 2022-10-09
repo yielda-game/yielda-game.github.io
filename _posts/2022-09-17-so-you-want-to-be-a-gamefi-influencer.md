@@ -8,7 +8,7 @@ categories:
 tags:
   - deposits
   - rules
-toc: false
+toc: true
 redirect_from:
   - /blog/so-you-want-to-be-a-crypto-gambling-influencer
 ---
@@ -65,4 +65,30 @@ Want to learn more? Here's a [pitch deck](https://pitch.com/embed/8e497f9e-af26-
 <a class="btn btn--primary btn--large" href="mailto:hello@yielda.io?subject=Influencer%20Inquiry&body=I'm%20a%20social%20influencer%20and%20I'd%20like%20to%20help%20grow%20the%20Yielda%20user%20community!%20Here's%20how%20to%20contact%20me..." target="blank">Email Us & Get Involved Today!</a>
 {:  .text-center}
 
+## Some Prompts
 
+Yielda founder & developer Jason W. here...
+
+I thought it would be helpful to include some "prompts": a set of topics you could ask about to help me tell the Yielda story.
+
+Please do NOT think of these as the only "authorized" topics! I'd love to see you dig into the weeds and grill me over details I haven't thought of. I'm very proud of Yielda and eager to tell the whole story. NOTHING is off-limits!
+
+Having said that, feel free to start with a few of these:
+
+* The Yielda origin story. Why build this?
+* You say "we" a lot. Who else is on your team?
+* The original name was _PonziFarm_. What's up with THAT, and why did you change it?
+* Yielda looks an AWFUL lot like a yield-farming scam. What's up with that?
+* How can I validate that Yielda isn't a scam?
+* How does game play actually work?
+* What so I make a deposit and then go away for a couple weeks? Sounds boring.
+* Is this even legal?
+* You keep calling Yielda a _social_ strategy game. Where's the social part?
+* Come to think of it, where's the _strategy_ part?
+* Is Yielda just a glorified casino game, where the house always wins?
+* If not, how can I win at Yielda consistently, and what does _winning_ look like?
+* Are you seeking funding? Hiring employees or contractors?
+* What is Yielda's business model?
+* What does Yielda's road map look like?
+
+If I get any other really good questions, I'll add them to this list!
