@@ -148,7 +148,3 @@ comments:
 # Required to get the site to run locally.
 github: [metadata]
 
-analytics:
-  provider: google-gtag
-  google:
-    tracking_id: G-VZPYPVPPQ4
