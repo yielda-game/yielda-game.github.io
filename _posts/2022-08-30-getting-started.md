@@ -2,7 +2,7 @@
 title: "Getting Started with Yielda"
 excerpt: "Yielda is a crypto-based, investment-style game where manipulating the 'system' is not only allowed but encouraged! Here's how to get started!"
 header:
-  teaser: /assets/images/yielda-mark-light.png
+  teaser: /assets/images/start.png
 categories:
   - Blog
 tags:
@@ -12,7 +12,7 @@ toc: false
 ---
 
 <figure class="align-left" style="margin-top: 10px; margin-bottom: 10px; width: 150px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yielda-mark-light.png">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/start.png">
 </figure>
 
 **Yielda** is a crypto-based, investment-style game where manipulating the "system" is not only allowed but encouraged! 
