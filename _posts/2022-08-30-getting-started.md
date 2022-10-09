@@ -21,7 +21,7 @@ Sounds sketchy, right? 🤣 See [this post](/blog/making-money-with-ponzifarm) t
 
 Meanwhile, before you get started...
 
-1. **You need a crypto wallet with some funds in it!** In our [testnet preview](https://preview.yielda.io) we support ETH & MATIC on the Goerli & Mumbai testnets. When we [go live](https://yielda.io) you can play with either currency on the related mainnets. More to come... we support [every EVM blockchain](https://coinguides.org/evm-blockchains-add-evm-network/)!
+1. **You need a crypto wallet with some funds in it!** In our [testnet preview](https://preview.yielda.io) we support ETH, MATIC & AVAX on the Goerli, Mumbai & Fuji testnets, respectively. When we [go live](https://yielda.io) you can play with either currency on the related mainnets. More to come... we support [every EVM blockchain](https://coinguides.org/evm-blockchains-add-evm-network/)!
 
     <figure>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/faucet-button.png" class="shadow">
