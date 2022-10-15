@@ -19,7 +19,7 @@ redirect_from:
 
 **Yielda** is a crypto-based, investment-style game where manipulating the "system" is not only allowed but encouraged! It's modeled on a good old-fashioned [Ponzi Scheme](https://en.wikipedia.org/wiki/Ponzi_scheme), a fraudulent (and highly illegal!) investment scam that pays high returns to early "investors" out of the deposits of later ones.
 
-Despite the tongue-in-cheek name, **Yielda** is NOT a scam! The difference is _transparency_. **Yielda** players have complete information concerning the rules of the game, the state of game play, and the activity of other players. Think of it as the ultimate game of stud poker: the challenge is to win the game with ALL of your cards on the table, ALL the time!
+Despite its roots, **Yielda** is NOT a scam! The difference is _transparency_. **Yielda** players have complete information concerning the rules of the game, the state of game play, and the activity of other players. Think of it as the ultimate game of stud poker: the challenge is to win the game with ALL of your cards on the table, ALL the time!
 
 There are three ways to make a killing at **Yielda**:
 
